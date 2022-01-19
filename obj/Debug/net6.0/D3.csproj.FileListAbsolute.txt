@@ -1,0 +1,15 @@
+D:\thực tập\C#\D3\bin\Debug\net6.0\D3.exe
+D:\thực tập\C#\D3\bin\Debug\net6.0\D3.deps.json
+D:\thực tập\C#\D3\bin\Debug\net6.0\D3.runtimeconfig.json
+D:\thực tập\C#\D3\bin\Debug\net6.0\D3.dll
+D:\thực tập\C#\D3\bin\Debug\net6.0\ref\D3.dll
+D:\thực tập\C#\D3\bin\Debug\net6.0\D3.pdb
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.csproj.AssemblyReference.cache
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.GeneratedMSBuildEditorConfig.editorconfig
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.AssemblyInfoInputs.cache
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.AssemblyInfo.cs
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.csproj.CoreCompileInputs.cache
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.dll
+D:\thực tập\C#\D3\obj\Debug\net6.0\ref\D3.dll
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.pdb
+D:\thực tập\C#\D3\obj\Debug\net6.0\D3.genruntimeconfig.cache
